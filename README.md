@@ -8,7 +8,7 @@
 
 O **Gym Center** é uma plataforma digital que conecta usuários aos melhores planos de fitness, com foco em uma experiência de usuário intuitiva e moderna. O projeto oferece uma variedade de funcionalidades, como visualização de programas de treino, planos de preços flexíveis e depoimentos inspiradores de clientes. Foi desenvolvido com **React**, **Vite**, **TypeScript** e **Chakra UI v3** para garantir uma interface fluida e responsiva.
 
-![Acesse o projeto!](https://gym-center-mocha.vercel.app/)
+[Acesse o projeto!](https://gym-center-mocha.vercel.app/)
 
 
 ## Funcionalidades
