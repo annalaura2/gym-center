@@ -1,0 +1,201 @@
+{
+  "navbar": {
+    "home": "Home",
+    "program": "Programs",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "community": "Community",
+    "login": "Login",
+    "register": "Register"
+  },
+  "footer": {
+    "termOfUse": "Term of Use",
+    "privacyPolicy": "Privacy Policy"
+  },
+  "heroSection": {
+    "heading": "Helps for your ideal body fitness",
+    "description": "Motivate users with benefits and positive reinforcement, and offer modifications and progress tracking.",
+    "startTrainingButton": "Start Training",
+    "watchDemoButton": "Watch Demo",
+    "satisfiedCustomers": "10K+ Satisfied Customer"
+  },
+  "gym": {
+    "heading": "Explore Our Programs",
+    "generalGym": {
+      "name": "General Gym",
+      "description": "A place where people go to exercise with various equipment for strength training and cardiovascular fitness."
+    },
+    "yoga": {
+      "name": "Yoga",
+      "description": "A practice that combines physical postures, breathing exercises, and meditation to enhance flexibility and mental clarity."
+    },
+    "boxing": {
+      "name": "Boxing",
+      "description": "A combat sport where participants throw punches at each other, often involving rigorous training and conditioning."
+    },
+    "cycling": {
+      "name": "Cycling",
+      "description": "Exercise involving riding a bicycle, either on a stationary bike or outdoors, focusing on cardiovascular endurance."
+    },
+    "swimming": {
+      "name": "Swimming",
+      "description": "A full-body workout that involves moving through water using the arms and legs, enhancing both strength and cardiovascular health."
+    },
+    "running": {
+      "name": "Running",
+      "description": "A cardiovascular exercise that involves moving at a fast pace on foot, promoting overall fitness and endurance."
+    },
+    "dance": {
+      "name": "Dance",
+      "description": "A rhythmic activity that combines movement and music, offering a fun and engaging way to improve fitness and coordination."
+    },
+    "martialArts": {
+      "name": "Martial Arts",
+      "description": "Various systems of combat training focusing on self-defense, discipline, and physical fitness through techniques and forms."
+    },
+    "pilates": {
+      "name": "Pilates",
+      "description": "A form of exercise that emphasizes balance, posture, strength, and flexibility through controlled movements and breathing."
+    },
+    "weightlifting": {
+      "name": "Weightlifting",
+      "description": "Strength training involving lifting heavy weights to build muscle mass and overall strength."
+    }
+  },
+  "ctaWithImage": {
+    "heading": "Transform your physique with our fitness plan.",
+    "joinNowButton": "Join Now",
+    "ContactUsButton": "Contact Us",
+    "list": {
+      "muscleStrength": "Increase Muscle and Strength",
+      "overallHealth": "Enhance Your Overall Health",
+      "stamina": "Boost Your Stamina and Endurance"
+    }
+  },
+  "nutritionExperience": {
+    "heading": "Enhance user experience with healthy nutrition tips, support resources, and social elements",
+    "joinNowButton": "Join Us"
+  },
+  "plans": {
+    "pricing": "Pricing",
+    "BestOffer": "Best Offer",
+    "registerNow": "Register Now",
+    "packages": {
+      "title": "Our List Packages",
+      "billedMonthly": "Monthly",
+      "billedYearly": "Yearly",
+      "perMonth": "Per month",
+      "billedAnnually": "Billed annually"
+    },
+    "basicPackage": {
+      "name": "Basic Package",
+      "monthlyPrice": "$25",
+      "yearlyPrice": "$250",
+      "benefits": {
+        "benefit1": "Unlimited Gym Access",
+        "benefit2": "2x Fitness Consultant",
+        "benefit3": "Nutrition Tracking",
+        "benefit4": "1x Free Supplement",
+        "benefit5": "3 Days per week",
+        "benefit6": "Personal Trainer"
+      }
+    },
+    "midPackage": {
+      "name": "Mid Package",
+      "monthlyPrice": "$55",
+      "yearlyPrice": "$550",
+      "benefits": {
+        "benefit1": "Unlimited Gym Access",
+        "benefit2": "4x Fitness Consultant",
+        "benefit3": "Nutrition Tracking",
+        "benefit4": "3x Free Supplement",
+        "benefit5": "5 Days per week",
+        "benefit6": "Personal Trainer"
+      }
+    },
+    "proPackage": {
+      "name": "Pro Package",
+      "monthlyPrice": "$75",
+      "yearlyPrice": "$750",
+      "benefits": {
+        "benefit1": "Unlimited Gym Access",
+        "benefit2": "7x Fitness Consultant",
+        "benefit3": "Nutrition Tracking",
+        "benefit4": "5x Free Supplement",
+        "benefit5": "Gym Card",
+        "benefit6": "Personal Trainer"
+      }
+    },
+    "athletePackage": {
+      "name": "Athlete Package",
+      "monthlyPrice": "$105",
+      "yearlyPrice": "$1050",
+      "benefits": {
+        "benefit1": "Unlimited Gym Access",
+        "benefit2": "Free Clothes",
+        "benefit3": "All Training Program",
+        "benefit4": "Free Fitness Consultant",
+        "benefit5": "Free Supplement",
+        "benefit6": "Gym Card"
+      }
+    }
+  },
+  "testimonial": {
+    "heading": "What Our Member Say About Us?",
+    "satisfiedCustomers": "10K+ Satisfied Customer",
+    "customer": {
+      "jonathanEdward": {
+        "message": "Join this fitness member, the best choice that I’ve. They’re very professional and give you suggestions about what food and nutrition that you can eat.",
+        "role": "Office Worker"
+      },
+      "sarahConnor": {
+        "message": "This service is amazing, I achieved great results in no time!",
+        "role": "Fitness Enthusiast"
+      },
+      "michaelJohnson": {
+        "message": "I highly recommend their services. They truly care about your success!",
+        "role": "Athlete"
+      }
+    }
+  },
+  "newsletter": {
+    "subscribe": "Subscribe to our fitness tips",
+    "benefits": "Clearly communicate the benefits of subscribing, such as exclusive content and breaking news.",
+    "button": "Subscribe"
+  },
+  "footerTop": {
+    "gymCenter": {
+      "title": "Gym Center",
+      "description": "Highlight benefits of each exercise, both physical and mental"
+    },
+    "sitemap": {
+      "title": "Sitemap",
+      "links": {
+        "aboutUs": "About Us",
+        "promos": "Promos",
+        "newsBlog": "News & Blog",
+        "helpCenter": "Help Center"
+      }
+    },
+    "support": {
+      "title": "Support",
+      "links": {
+        "faq": "FAQ",
+        "supportCenter": "Support Center"
+      }
+    },
+    "socialMedia": {
+      "title": "Social Media",
+      "links": {
+        "instagram": "Instagram",
+        "facebook": "Facebook",
+        "twitter": "Twitter"
+      }
+    }
+  },
+  "error404": {
+    "title": "Oops! Page not found",
+    "message": "It looks like you got lost on the way. Let's get back to training and refocus!",
+    "buttonText": "Return to Home Page"
+  }
+}

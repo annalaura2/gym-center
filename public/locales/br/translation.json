@@ -1,0 +1,201 @@
+{
+  "navbar": {
+    "home": "Home",
+    "program": "Programas",
+    "pricing": "Preço",
+    "contact": "Contato",
+    "register": "Registrar",
+    "login": "Entrar",
+    "community": "Comunidade"
+  },
+  "footer": {
+    "termOfUse": "Termos de Uso",
+    "privacyPolicy": "Política de Privacidade"
+  },
+  "heroSection": {
+    "heading": "Ajuda para o corpo ideal e em forma",
+    "description": "Motive os usuários com benefícios e reforço positivo, além de oferecer modificações e acompanhamento de progresso.",
+    "startTrainingButton": "Começar Treino",
+    "watchDemoButton": "Demonstração",
+    "satisfiedCustomers": "10K+ Clientes Satisfeitos"
+  },
+  "gym": {
+    "heading": "Explore nossos programas",
+    "generalGym": {
+      "name": "Ginásio Geral",
+      "description": "Um lugar onde as pessoas vão se exercitar com vários equipamentos para treinamento de força e condicionamento cardiovascular."
+    },
+    "yoga": {
+      "name": "Yoga",
+      "description": "Uma prática que combina posturas físicas, exercícios de respiração e meditação para melhorar a flexibilidade e a clareza mental."
+    },
+    "boxing": {
+      "name": "Boxe",
+      "description": "Um esporte de combate onde os participantes desferem socos uns nos outros, muitas vezes envolvendo treinamento e condicionamento rigorosos."
+    },
+    "cycling": {
+      "name": "Ciclismo",
+      "description": "Exercício que envolve andar de bicicleta, seja em uma bicicleta estacionária ou ao ar livre, focando na resistência cardiovascular."
+    },
+    "swimming": {
+      "name": "Natação",
+      "description": "Um treino de corpo inteiro que envolve mover-se pela água usando os braços e as pernas, melhorando tanto a força quanto a saúde cardiovascular."
+    },
+    "running": {
+      "name": "Corrida",
+      "description": "Um exercício cardiovascular que envolve mover-se rapidamente a pé, promovendo o condicionamento físico e a resistência geral."
+    },
+    "dance": {
+      "name": "Dança",
+      "description": "Uma atividade rítmica que combina movimento e música, oferecendo uma maneira divertida e envolvente de melhorar a forma física e a coordenação."
+    },
+    "martialArts": {
+      "name": "Artes Marciais",
+      "description": "Vários sistemas de treinamento de combate focando em autodefesa, disciplina e condicionamento físico por meio de técnicas e formas."
+    },
+    "pilates": {
+      "name": "Pilates",
+      "description": "Uma forma de exercício que enfatiza equilíbrio, postura, força e flexibilidade por meio de movimentos e respiração controlados."
+    },
+    "weightlifting": {
+      "name": "Levantamento de Peso",
+      "description": "Treinamento de força envolvendo a elevação de pesos pesados para aumentar a massa muscular e a força geral."
+    }
+  },
+  "ctaWithImage": {
+    "heading": "Transforme seu físico com nosso plano de fitness.",
+    "joinNowButton": "Junte-se Agora",
+    "ContactUsButton": "Contate-nos",
+    "list": {
+      "muscleStrength": "Ganhe Músculo e Aumente a Força",
+      "overallHealth": "Melhore Sua Saúde Geral",
+      "stamina": "Aumente Sua Resistência e Energia"
+    }
+  },
+  "nutritionExperience": {
+    "heading": "Melhore a experiência do usuário com dicas de nutrição saudável, recursos de apoio e elementos sociais",
+    "joinNowButton": "Junte-se Agora"
+  },
+  "plans": {
+    "pricing": "Preços",
+    "packages": {
+      "title": "Nossos Pacotes",
+      "billedMonthly": "Mensalmente",
+      "billedYearly": "Anualmente",
+      "perMonth": "Por mês",
+      "billedAnnually": "Por ano"
+    },
+    "BestOffer": "Melhor Oferta",
+    "registerNow": "Registre-se Agora",
+    "basicPackage": {
+      "name": "Básico",
+      "monthlyPrice": "$25",
+      "yearlyPrice": "$250",
+      "benefits": {
+        "benefit1": "Acesso Ilimitado",
+        "benefit2": "2 Consultas",
+        "benefit3": "Rastreamento Nutri",
+        "benefit4": "Suplemento Grátis",
+        "benefit5": "3 Dias/semana",
+        "benefit6": "Personal"
+      }
+    },
+    "midPackage": {
+      "name": "Intermediário",
+      "monthlyPrice": "$55",
+      "yearlyPrice": "$550",
+      "benefits": {
+        "benefit1": "Acesso Ilimitado",
+        "benefit2": "4 Consultas",
+        "benefit3": "Rastreamento Nutri",
+        "benefit4": "3 Suplementos",
+        "benefit5": "5 Dias/semana",
+        "benefit6": "Personal"
+      }
+    },
+    "proPackage": {
+      "name": "Pro",
+      "monthlyPrice": "$75",
+      "yearlyPrice": "$750",
+      "benefits": {
+        "benefit1": "Acesso Ilimitado",
+        "benefit2": "7 Consultas",
+        "benefit3": "Rastreamento Nutri",
+        "benefit4": "5 Suplementos",
+        "benefit5": "Cartão",
+        "benefit6": "Personal"
+      }
+    },
+    "athletePackage": {
+      "name": "Atleta",
+      "monthlyPrice": "$105",
+      "yearlyPrice": "$1050",
+      "benefits": {
+        "benefit1": "Acesso Ilimitado",
+        "benefit2": "Roupas Grátis",
+        "benefit3": "Programas de Treino",
+        "benefit4": "Consulta Grátis",
+        "benefit5": "Suplemento Grátis",
+        "benefit6": "Cartão da Academia"
+      }
+    }
+  },
+  "testimonial": {
+    "heading": "O Que Nossos Membros Dizem Sobre Nós?",
+    "satisfiedCustomers": "10K+ Clientes Satisfeitos",
+    "customer": {
+      "jonathanEdward": {
+        "message": "Junte-se a este membro de fitness, a melhor escolha que eu fiz. Eles são muito profissionais e dão sugestões sobre o que comer e como se nutrir.",
+        "role": "Trabalhador de Escritório"
+      },
+      "sarahConnor": {
+        "message": "Este serviço é incrível, consegui ótimos resultados em pouco tempo!",
+        "role": "Entusiasta de Fitness"
+      },
+      "michaelJohnson": {
+        "message": "Eu recomendo muito os serviços deles. Eles realmente se importam com seu sucesso!",
+        "role": "Atleta"
+      }
+    }
+  },
+  "newsletter": {
+    "subscribe": "Inscreva-se em nossas dicas de fitness",
+    "benefits": "Comunique claramente os benefícios da inscrição, como conteúdo exclusivo e notícias de última hora.",
+    "button": "Inscrever-se"
+  },
+  "footerTop": {
+    "gymCenter": {
+      "title": "Gym Center",
+      "description": "Destaque os benefícios de cada exercício, tanto físicos quanto mentais"
+    },
+    "sitemap": {
+      "title": "Mapa do Site",
+      "links": {
+        "aboutUs": "Sobre Nós",
+        "promos": "Promoções",
+        "newsBlog": "Notícias e Blog",
+        "helpCenter": "Central de Ajuda"
+      }
+    },
+    "support": {
+      "title": "Suporte",
+      "links": {
+        "faq": "Perguntas Frequentes",
+        "supportCenter": "Central de Suporte"
+      }
+    },
+    "socialMedia": {
+      "title": "Mídia Social",
+      "links": {
+        "instagram": "Instagram",
+        "facebook": "Facebook",
+        "twitter": "Twitter"
+      }
+    }
+  },
+  "error404": {
+    "title": "Oops! Página não encontrada",
+    "message": "Parece que você se perdeu no caminho. Vamos voltar ao treino e retomar o foco?",
+    "buttonText": "Voltar para a página inicial"
+  }
+}
